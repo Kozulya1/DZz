@@ -42,5 +42,6 @@
 Режимы работы серверов при горизонтальном шардинге:
 Каждый шард	Master (Read-Write)	SELECT, INSERT, UPDATE, DELETE.	Каждый шард — это полноценный мастер, обслуживающий свой диапазон ID.
 
-<img width="1988" height="900" alt="image" src="https://github.com/user-attachments/assets/c469d346-6740-43b9-b91c-cf8a9f73aa94" />
+<img width="1970" height="873" alt="image" src="https://github.com/user-attachments/assets/ad3e2d09-1463-485a-b3d9-e6962dec9320" />
+
 
